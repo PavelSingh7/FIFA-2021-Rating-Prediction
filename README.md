@@ -43,3 +43,5 @@ We will be working on a bunch of objectives for this project which will include 
 
 •	Tableau (Data Visualization) 
 
+# Check the Report file above for full project details.
+
