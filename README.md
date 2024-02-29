@@ -60,5 +60,5 @@ For Gradient Boosting Regressor - no feature scaling is required
 # Gradient Boosting Regressor is providing 97% accuracy and Lasso Regression is providing 89% 
  ## It is better than Lasso because Gradient Boositng Regressor works well for a data with Weak Linear Relationship
 
- # * NOTE ( Check the Final Result csv file for the affect  international repution on ratings) * 
+ # * NOTE ( Check the Final Result csv file for the affect on international repution on ratings) * 
 
